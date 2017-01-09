@@ -14,5 +14,5 @@ Eis nosso Culture Code, versão 1.0:
 
 [Slides](https://speakerdeck.com/coderockr/culture-code-coderockr)
 
-[Markdown](
+[Markdown](https://github.com/Coderockr/culture-code/blob/master/CultureCode.md)
 
